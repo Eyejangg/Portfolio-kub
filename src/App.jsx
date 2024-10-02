@@ -12,7 +12,7 @@ function App() {
   useEffect(() => {
     /** Type Effect */
     const typingEffect = new Typed(".typedText", {
-      string: ["Lecturer", "Developer", "Researcher"],
+      strings: ["Lecturer", "Developer", "Researcher"],
       loop: true,
       typeSpeed: 100,
       backSpeed: 80,
