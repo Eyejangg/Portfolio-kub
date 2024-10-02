@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Eyejangg/Portfolio-kub}.github.io/{portfolio}/",
+  "homepage": "https://Eyejangg.github.io/Portfolio-kub/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
