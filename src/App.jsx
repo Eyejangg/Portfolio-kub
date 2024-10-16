@@ -53,7 +53,7 @@ function App() {
     //Heading
     sr.reveal(".top-header", {});
 
-    //Left-right Animation
+    //Left-right Animation // อนิเมะชั่น
     const srLeft = ScrollReveal({
       origin: "left",
       distance: "80px",
