@@ -6,14 +6,14 @@ const FeaturedBox = () => {
     <section className="featured-box" id="home">
       <div className="featured-text">
         <div className="featured-text-card">
-          <span>Boonruksa Winanon</span>
+          <span>Phitharawat Ketmanee</span>
         </div>
         <div className="featured-name">
           I'm <span className="typedText"></span>
         </div>
         <div className="featured-text-info">
           <p>
-            Hello! My name is Boonruksa Winanon, and I am a software
+            Hello! My name is Phitharawat Ketmanee, and I am a software
             Engineering. I am passionate about Javascript and have experience in
             mySQL and UX/UI . I enjoy collaborating with others and am always
             eager to learn and grow.
@@ -26,17 +26,17 @@ const FeaturedBox = () => {
         </div>
         <div className="social_icons">
           <div className="icon">
-            <a href="https://www.instagram.com/o_obo70l?igsh=Ymk0Y3h5dHptcTc2">
+            <a href="https://www.instagram.com/eyejang_03/profilecard/?igsh=MXBmZ21rMTQyaWRibw==">
               <i className="uil uil-instagram-alt"></i>
             </a>
           </div>
           <div className="icon">
-            <a href="https://www.facebook.com/boonruksa.winanon.5?mibextid=LQQJ4d">
+            <a href="https://www.facebook.com/eye.phitharawat.9?mibextid=LQQJ4d">
               <i className="uil uil-facebook"></i>
             </a>
           </div>
           <div className="icon">
-            <a href="https://github.com/FAYRESU">
+            <a href="https://github.com/Eyejangg">
               <i className="uil uil-github"></i>
             </a>
           </div>

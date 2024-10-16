@@ -1,4 +1,5 @@
 import React from "react";
+import cv_eye from "../assets/download/Save to pdf Save topdf.pdf"; // ส่วนของ ไฟล์ pdf เหมือนใส่รูป
 
 const Header = () => {
   const menuFunction = () => {
@@ -40,9 +41,11 @@ const Header = () => {
         </li>
       </div>
       <div className="nav-button">
-        <button className="btn">
-          Dowload CV <i className="uil uil-file-alt"></i>
-        </button>
+        <a href={cv_eye} target="_blank">
+          <button className="btn">
+            Dowload CV <i className="uil uil-file-alt"></i>
+          </button>
+        </a>
       </div>
       <div className="nav-menu-btn">
         <i className="uil uil-bars" onClick={menuFunction}></i>
